@@ -7,7 +7,7 @@
 ?>
 
 <footer>footer</footer> 
-<?php wp_footer; ?>
+<?php wp_footer(); ?>
  <script src="script.js"></script>
  </body>
  
